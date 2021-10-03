@@ -9,5 +9,9 @@ public class First {
         // added to be pushed to github
 
         // the text doesn't matter
+
+        // third commit
+
+        // more lines
     }
 }
