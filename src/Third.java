@@ -10,4 +10,9 @@ public class Third {
 
        return "java is hard";
     }
+
+    public void s(int a) {
+        a = 30;
+        System.out.println(a);
+    }
 }
